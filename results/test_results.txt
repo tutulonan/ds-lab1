@@ -1,0 +1,23 @@
+test_binarize (test_numpy_tasks.NumpyTasksTests.test_binarize) ... ok
+test_chess (test_numpy_tasks.NumpyTasksTests.test_chess) ... ok
+test_ellipse (test_numpy_tasks.NumpyTasksTests.test_ellipse) ... ok
+test_matrix_statistics (test_numpy_tasks.NumpyTasksTests.test_matrix_statistics) ... ok
+test_one_hot (test_numpy_tasks.NumpyTasksTests.test_one_hot) ... ok
+test_rectangle (test_numpy_tasks.NumpyTasksTests.test_rectangle) ... ok
+test_sum_prod (test_numpy_tasks.NumpyTasksTests.test_sum_prod) ... ok
+test_time_series (test_numpy_tasks.NumpyTasksTests.test_time_series) ... ok
+test_unique_columns (test_numpy_tasks.NumpyTasksTests.test_unique_columns) ... ok
+test_unique_rows (test_numpy_tasks.NumpyTasksTests.test_unique_rows) ... ok
+test_balanced (test_python_basics.PythonBasicsTests.test_balanced) ... ok
+test_bits (test_python_basics.PythonBasicsTests.test_bits) ... ok
+test_factorization (test_python_basics.PythonBasicsTests.test_factorization) ... ok
+test_mse (test_python_basics.PythonBasicsTests.test_mse) ... ok
+test_persistence (test_python_basics.PythonBasicsTests.test_persistence) ... ok
+test_pyramid (test_python_basics.PythonBasicsTests.test_pyramid) ... ok
+test_unique (test_python_basics.PythonBasicsTests.test_unique) ... ok
+test_vowels (test_python_basics.PythonBasicsTests.test_vowels) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.024s
+
+OK

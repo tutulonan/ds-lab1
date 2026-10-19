@@ -1,0 +1,3 @@
+python_basics: all signatures and return annotations match; contract bytes unchanged
+numpy_tasks: all signatures and return annotations match; contract bytes unchanged
+Returned objects use the original MatrixStatistics and TimeSeriesStatistics classes
